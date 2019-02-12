@@ -1,5 +1,0 @@
-1：get的命令符
-		：git add . //提交
-		：git commit -m "新提交了什么"//感觉他能自己分辨提交了什么，自己只需要记录即可
-		：git push -u origin master //正在提交
-        !!  请注意中间的空格
